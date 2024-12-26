@@ -10,5 +10,5 @@
 2.Now click on login and login with these credentials.
 
 ```text
-username: admin@gmail.com
-password: Admin@123
+username: adminNtigra@gmail.com
+password: adminNtigra@123
