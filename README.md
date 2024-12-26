@@ -7,4 +7,8 @@
    - Identity Core (Authentication)
    - Bootstrap 5 (frontend)
 
+2.Now click on login and login with these credentials.
 
+```text
+username: admin@gmail.com
+password: Admin@123
